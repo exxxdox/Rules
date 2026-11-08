@@ -1,0 +1,91 @@
+
+# LAN / 本地域名
+localhost
++.localhost
++.lan
++.local
++.localdomain
++.home.arpa
++.example
++.invalid
++.test
++.direct
++.router.asus.com
+
+# 网络连通性检测
++.msftconnecttest.com
++.msftncsi.com
+detectportal.firefox.com
+network-test.debian.org
+
+# NTP 时间同步
++.ntp.org
++.ntp.org.cn
+time-ios.apple.com
+time1.cloud.tencent.com
+time.*.com
+time.*.gov
+time.*.edu.cn
+time.*.apple.com
+time1.*.com
+time2.*.com
+time3.*.com
+time4.*.com
+time5.*.com
+time6.*.com
+time7.*.com
+ntp.*.com
+ntp1.*.com
+ntp2.*.com
+ntp3.*.com
+ntp4.*.com
+ntp5.*.com
+ntp6.*.com
+ntp7.*.com
+
+# STUN / NAT 穿透
+stun.*.*
+stun.*.*.*
+stun.*.*.*.*
+stun.*.*.*.*.*
++.stun.playstation.net
+
+# QQ / 微信本地登录
+localhost.ptlogin2.qq.com
+localhost.sec.qq.com
+localhost.work.weixin.qq.com
+localhost.*.weixin.qq.com
+
+# 运营商一键登录
+id6.me
+open.e.189.cn
+hmrz.wo.cn
+nishub1.10010.com
+enrichgw.10010.com
++.cmpassport.com
++.wosms.cn
+
+# 银行 / 金融服务
++.cmbchina.com
++.cmbimg.com
++.pingan.com.cn
+
+# 智能家居 / 路由器
+heartbeat.belkin.com
++.linksys.com
++.linksyssmartwifi.com
++.oray.com
++.orayimg.com
+
+# 游戏 / 联机兼容
+xnotify.xboxlive.com
+xbox.*.microsoft.com
+xbox.*.*.microsoft.com
+*.*.xboxlive.com
++.srv.nintendo.net
++.cdn.nintendo.net
++.gcloudcs.com
++.gcloudsdk.com
+
+# Wi-Fi Calling
++.3gppnetwork.org
